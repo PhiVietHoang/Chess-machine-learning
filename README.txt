@@ -1,20 +1,7 @@
-========CAPSTONE PROJECT========
-
-1. Nguyen Hai Nam 20205188
-2. Phi Viet Hoang 20205153
-3. Bui Hoang Ha 20205149
-4. Nguyen Tien Duy 20200801
-
 ========INFORMATION========
 This program is a basic chess game with built-in chess AI.
 The main goal of the project is to create a chess AI.
 Our AI may not be smart for a pro but surly a real nightmare for beginner.
-
-========ALGORITHMS========
-1. We count the relative strength of the pieces on the board with respect to their strength to choose best move.
-2. We use Minimax algorithm to create a search tree. The higher the depth is, the more effectively our AI perform.
-3. We use Alpha-beta pruning to optimize run time, which leads to higher depth (my laptop can handle the highest DEPTH = 4).
-4. We improve the initial evaluation function to make our AI smarter.
 
 ========TECHNOLOGIES========
 
